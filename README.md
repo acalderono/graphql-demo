@@ -20,6 +20,3 @@ npm run start:dev
 ## Author
 
 👤 **Angel Calderon (https://acalderon.dev)**
-
-* Website: https://acalderon.dev
-* Github: [@acalderono](https://github.com/acalderono)
