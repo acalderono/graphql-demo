@@ -7,9 +7,6 @@ const query: IResolvers = {
         },
         holaConNombre(__: void, { nombre }): string {
             return `Hola ${nombre}`;
-        },
-        holaAlCursoGraphQL(): string {
-            return 'Hola al curso GraphQL!';
         }
     }
 };
